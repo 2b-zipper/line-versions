@@ -1,8 +1,9 @@
 {
   "channels": {
     "stable": {
-      "recommended": 261100124,
+      "recommended": 261300096,
       "versions": [
+        261300096,
         261100124,
         261010136,
         261000129
