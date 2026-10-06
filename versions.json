@@ -1,8 +1,9 @@
 {
   "channels": {
     "stable": {
-      "recommended": 261500177,
+      "recommended": 261510192,
       "versions": [
+        261510192,
         261500177,
         261400121,
         261310101,
@@ -11,8 +12,9 @@
       ]
     },
     "prerelease": {
-      "recommended": 261500177,
+      "recommended": 261510192,
       "versions": [
+        261510192,
         261500177,
         261400121,
         261310101,
