@@ -1,7 +1,7 @@
 {
   "channels": {
     "stable": {
-      "recommended": 261700167,
+      "recommended": 261710173,
       "versions": [
         261710173,
         261700167,
@@ -14,7 +14,7 @@
       ]
     },
     "prerelease": {
-      "recommended": 261700167,
+      "recommended": 261710173,
       "versions": [
         261710173,
         261700167,
